@@ -1,8 +1,7 @@
 # react-leaflet-multiple-markers
 ReactJS OpenStreetMap add and remove multiple markers by interactive (adding, removing)
 
-installation : 
-npm i react-leaflet 
+installation : <br/> npm i react-leaflet 
 
 if you have issue about 'unexpected token' from node modules, first stop project if running then:
 
